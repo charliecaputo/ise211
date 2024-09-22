@@ -7,3 +7,5 @@ in real world applications this is where someone would aprrove the things you ar
 Pull requests in GitHub are a way for people to collaborate on a project. The owner of the repository maintains control by being able to approve or deny requests.
 
 	-Benjamin Simpson
+
+i liked what he said
