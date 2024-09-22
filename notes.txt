@@ -1,0 +1,3 @@
+git is used to save changes of files so that you have a history and can revert back to older saves if anything goes wrong with courrent files.
+github is the cloud version of this so that the files can be accessed from any device.
+
