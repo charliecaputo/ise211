@@ -3,3 +3,7 @@ github is the cloud version of this so that the files can be accessed from any d
 
 branching allows you to add changes to the files without changing the main branch so that you can ensure the code is correct before moergeing
 in real world applications this is where someone would aprrove the things you are adding and merge it to main
+
+Pull requests in GitHub are a way for people to collaborate on a project. The owner of the repository maintains control by being able to approve or deny requests.
+
+	-Benjamin Simpson
